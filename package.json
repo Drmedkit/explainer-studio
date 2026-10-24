@@ -5,6 +5,6 @@
   "type": "module",
   "description": "Shared kit for directed science explainers: model, anatomy figure, explainer, open lab, film, quality gates, ship.",
   "dependencies": {
-    "puppeteer": "^24.43.1"
+    "puppeteer": "^25.16.0"
   }
 }
